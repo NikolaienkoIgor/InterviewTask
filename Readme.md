@@ -1,4 +1,4 @@
-# 🐍 FastAPI Junior Code Refactoring Task
+# 🐍 FastAPI Code Refactoring Task
 
 ## 🎯 Objective
 
